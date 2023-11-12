@@ -2,8 +2,6 @@
 📚 Fourth-year computer engineering student at Okan University<br>🚗 Autonomous Vehicles Software Engineer<br>👨‍💻 Data Science-Artificial Intelligence-Machine Learning Enthusiast
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamitkoculu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamitkoculu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamitkoculu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials: 
